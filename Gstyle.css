@@ -1,0 +1,125 @@
+.body {
+	margin: 0;
+	padding: 0;
+}
+
+.middletop {
+	display: block;
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 150px;
+	margin-bottom: 30px;
+	padding: 20px;
+
+}
+
+.logo {
+	height: 100px;
+}
+
+.middlebottom {
+	margin: auto;
+	width: 40%;
+	display: block;
+}
+
+.searchbar {
+	align-items: center;
+	width: 100%;
+	padding: 30px;
+}
+
+.searchbar input {
+	width: 100%;
+	border-radius: 40px;
+	height: 30px;
+}
+
+.button {
+		text-align: center;
+		width: 40%;
+		margin: 20px;
+
+}
+
+.navbar {
+	width: 100%;
+	margin-bottom: 50px;
+	display: block;
+	padding-bottom: 30px;
+}
+
+.navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar li {
+	float: left;
+}
+
+.navbar a {
+	display: block;
+	padding: 14px;
+}
+
+.navbar .toptext {
+	text-decoration: none;
+	color: grey;
+	font-weight: 20px;
+	font: ariel;
+	font-size: 14px;
+	letter-spacing: 1px;
+}
+
+.navbar .toptext:hover {
+	text-decoration: underline;
+}
+
+.navbar .topbutton {
+	background-color: #2bb3d7;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 10px;
+}
+
+.footer {
+	background-color: #c2c2c2;
+	padding: 5px;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	margin-left: 0;
+}
+
+.footer ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+
+.footer li {
+	display: inline block;
+	float: left;
+}
+
+.footer a {
+	padding: 14px;
+	display: inline-block;
+	text-align: center;
+}
+
+.footer .bottomtext {
+	text-decoration: none;
+	color: grey;
+	font-size: 14px;
+}
+
+.footer .line {
+	border-bottom: 1px solid #e4e4e4;
+	border-width: 1px;
+}
+
